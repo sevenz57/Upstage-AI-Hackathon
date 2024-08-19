@@ -37,3 +37,9 @@ Mandarin Chinese is not only one of the most spoken languages in the world but a
 
 ## Conclusion
 Exploring the beauty of Mandarin through Star Han Pavilion is more than just language learning; it’s an immersive cultural experience. By combining quality resources, AI-driven personalization, and a user-friendly design, this platform is poised to become a leading tool for Mandarin learners worldwide. With continuous improvement and expansion, Star Han Pavilion will not only help learners master Mandarin but also foster a deeper appreciation of the culture it represents.
+
+
+## To Install
+Step 1: Download the StarHan.zip
+Step 2: Open the file named index.html
+Step 3: You may start have a glance through the webpage
