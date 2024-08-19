@@ -40,6 +40,6 @@ Exploring the beauty of Mandarin through Star Han Pavilion is more than just lan
 
 
 ## To Install
-Step 1: Download the StarHan.zip
-Step 2: Open the file named index.html
-Step 3: You may start have a glance through the webpage
+- Step 1: Download the StarHan.zip
+- Step 2: Open the file named index.html
+- Step 3: You may start have a glance through the webpage
